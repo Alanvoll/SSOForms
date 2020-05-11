@@ -1,0 +1,15 @@
+.signForm__footer {
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    margin-top: 0;
+}
+
+.signForm__footerText {
+    font-size: 12px;
+    border-bottom: 1px solid transparent;
+}
+
+.signForm__footerText:hover{
+    border-bottom: 1px solid deepskyblue;
+}

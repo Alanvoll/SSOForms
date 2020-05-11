@@ -1,0 +1,11 @@
+.signForm__header {
+    color: white;
+    margin: 0 0 20px 0;
+    background-color: #323232;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
